@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 
   <br><br><br><br><br><br><br><br><br><br>
 
-  <!-- Racha de contribuciones -->
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=FerChikito&theme=radical" alt="Streak Stats" />
 
-  <br><br><br><br><br><br><br><br><br><br>
-  <hr width="60%">
 
   <h3>🛠️ Mis habilidades</h3>
   <p align="center">
