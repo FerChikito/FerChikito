@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>Soy estudiante y desarrollador en formación, aprendiendo C, Java, Git y Linux 🐧</p>
 
   <!-- Snake Contribution Animation -->
-  <img src="[https://github.com/FerChikito/FerChikito/blob/output/github-contribution-grid-snake.svg" alt="Snake animation](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation)" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation)" />
 
   <h3>✨ Mis estadísticas de GitHub</h3>
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
