@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <h1>Hola 👋, soy FerChikito</h1>
+  <h1>Hola 👋, soy Fer</h1>
   <p>Soy estudiante y desarrollador en formación, aprendiendo C, Java, Git y Linux 🐧</p>
 
   <!-- Snake Contribution Animation -->
